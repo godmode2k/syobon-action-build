@@ -3,8 +3,12 @@
 
 Environment
 ----------
-> Build all and Tested on Windows 10
-> SyobonAction_rc2, SDL1.x based, VS2022, Windows 10
+> Build all and Tested on Windows 10 <br>
+> SyobonAction_rc2, SDL1.x based, VS2022, Windows 10 <br>
+
+
+<img src="https://github.com/godmode2k/syobon-action-build/raw/main/screenshots/007_000 run.jpg" width="50%" height="50%">
+<br>
 
 
 ```sh
